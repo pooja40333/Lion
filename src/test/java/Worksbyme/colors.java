@@ -11,6 +11,7 @@ public class colors
 
  
  System.out.println("orange");
+
  System.out.println("orange");
  
  System.out.println("orange");
@@ -23,5 +24,12 @@ public class colors
  
  System.out.println("purple");
  System.out.println("blue");
+
+ 
+ System.out.println("purple");
+ 
+ System.out.println("magentha");
+ System.out.println("yellow");
+
 }
 }
