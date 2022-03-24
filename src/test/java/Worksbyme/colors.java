@@ -11,5 +11,10 @@ public class colors
  
  System.out.println("orange");
  System.out.println("orange");
+ 
+ System.out.println("orange");
+ System.out.println("orange");
+ System.out.println("orange");
+ System.out.println("orange");
 }
 }
