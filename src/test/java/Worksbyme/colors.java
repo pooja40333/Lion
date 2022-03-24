@@ -14,5 +14,6 @@ public class colors
  System.out.println("purple");
  
  System.out.println("magentha");
+ System.out.println("yellow");
 }
 }
