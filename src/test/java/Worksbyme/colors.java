@@ -10,5 +10,7 @@ public class colors
  System.out.println("blue");
  System.out.println("white");
  System.out.println("orange");
+ 
+ System.out.println("purple");
 }
 }
